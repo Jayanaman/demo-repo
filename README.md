@@ -2,6 +2,9 @@
 
 This is just a demonstration!!
 
-# Subheader
+## Subheader
 
 Lets go
+
+## Local Development
+1. Open index.html in your browser
